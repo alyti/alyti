@@ -1,5 +1,5 @@
 👋 Hi! My name is Alyssa (she/they) and I'm a DevOps engineer from Latvia. I also go by Aly sometimes.<br>
-💼 I am currently working full-time at [Unwired Networks](https://unwired.at).<br>
+💼 I am currently working full-time at [Unwired Networks](https://unwired.at), building out and maintaining the back-end for orchestration & automation of WiFi networks in various industries.<br>
 🔭In my free time I am also working on various projects involving the crossing of WASM, Rust and SurrealDB.<br>
 👀 You can generally reach out to me via Discord, my handle there is the same as this GitHub one.<br>
 
